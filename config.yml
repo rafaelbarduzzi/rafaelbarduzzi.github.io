@@ -20,7 +20,7 @@ menu:
         #   weight: 4
 
 params:
-    description: "This website hosts Rafael F. Barduzzi's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Rafael F. Barduzzi's research papers, curriculum vitae, and contact information."
     author: Rafael F. Barduzzi
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -46,9 +46,9 @@ params:
     profileMode:
           enabled: true
           title: Rafael F. Barduzzi
-          subtitle: "<div style='text-align: justify;'>I am a Ph.D. student in the Comparative Biology program at the University of São Paulo (USP), Ribeirão Preto campus. Currently, I am conducting a research stay at the University of California, Riverside. Previously, I studied the morphological diversity of pollen grains in mimosoid plants. At present, my research focuses on species diversification and morphological evolution of plants in the genus <i>Mimosa</i> L. More broadly, I am interested in morphological diversity and its connections with taxonomy, phylogenetic relationships, and functional diversity.</div>"
+          subtitle: "<div style='text-align: justify;'>I am a Ph.D. student in the Comparative Biology program at the University of São Paulo (USP), Ribeirão Preto campus. Currently, I am conducting a research stay at the University of California, Riverside. Previously, I studied the morphological diversity of pollen grains in mimosoid plants. At present, my research focuses on species diversification and morphological evolution of plants in the genus <i>Mimosa</i> L. I am broadly interested in studying morphological diversity and its connections to taxonomy, phylogenetic relationships, and functional diversity.</div>"
           imageUrl: "picture.jpg"
-          imageWidth: 180
+          imageWidth: 170
           imageHeight: 160
           buttons:
             - name: Papers
