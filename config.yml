@@ -46,10 +46,10 @@ params:
     profileMode:
           enabled: true
           title: Rafael F. Barduzzi
-          subtitle: "<div style='text-align: justify;'>Graduate degree in Biological Science by Federal University of São Carlos (2023). Currently, I am a Ph.D. student at the Comparative Biology program of São Paulo University - Ribeirão Preto campus. As part of my Ph.D., I am currently conducting a research stay at the University of California, Riverside. I have experience in handling morphological data and in phylogenetic comparative methods. I am interested in studying morphological diversity and how it relates to taxonomy, phylogenetic relationships and functional diversity.</div>"
+          subtitle: "<div style='text-align: justify;'>I am a Ph.D. student in the Comparative Biology program at the University of São Paulo (USP), Ribeirão Preto campus. Currently, I am conducting a research stay at the University of California, Riverside. Previously, I studied the morphological diversity of pollen grains in mimosoid plants. At present, my research focuses on the diversification and phenotypic evolution of plants of the genus Mimosa L. More broadly, I am interested in morphological diversity and its connections with taxonomy, phylogenetic relationships, and functional diversity.</div>"
           imageUrl: "picture.jpg"
-          imageWidth: 160
-          imageHeight: 200
+          imageWidth: 180
+          imageHeight: 160
           buttons:
             - name: Papers
               url: papers/

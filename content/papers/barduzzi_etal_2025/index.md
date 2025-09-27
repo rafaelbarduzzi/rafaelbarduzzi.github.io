@@ -26,7 +26,7 @@ editPost:
 
 ##### Data availability:
 
-- [Code](https://github.com/rafaelbarduzzi/rafaelbarduzzi_phd)
+- [Code](https://github.com/rafaelbarduzzi/mimosoid_pollen_disparity)
 - [Morphological data](http://dx.doi.org/10.7934/P5877)
 
 ---
