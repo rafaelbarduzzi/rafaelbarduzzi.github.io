@@ -1,10 +1,10 @@
 ---
 title: "Morphological innovation and lineage-specific history drive disparification in the aggregated pollen of mimosoid plants" 
 date: 2025-09-17
-url: /papers/barduzzi2025
+url: /barduzzi2025
 aliases: 
     - /barduzzi2025.html
-author: ["<strong>Rafael F Barduzzi</strong>", "Stefany Liau-Kang", "Ana Flávia T Duarte", "Francisco Assis Ribeiro dos Santos", "Leonardo M Borges"]
+author: ["<strong>Rafael F Barduzzi</strong>", "Stefany Liau-Kang", "Ana Flávia T Duarte", "Francisco A R Santos", "Leonardo M Borges"]
 description: "Paper description for search engines (less than 155 characters)" 
 summary: "What are the patterns of pollen disparity in the Mimosa and Stryphnodendron clades, and are these patterns similar between lineages that occur in the same biomes?"
 cover:

@@ -58,7 +58,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: CV_RFBarduzzi.pdf
+          url: cv.pdf
         - name: Email
           url: mailto:rfbarduzzi@gmail.com
         - name: Google Scholar

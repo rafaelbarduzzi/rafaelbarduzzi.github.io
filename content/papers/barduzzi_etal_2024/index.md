@@ -1,7 +1,7 @@
 ---
 title: "Pollen evolution in the Stryphnodendron clade (Leguminosae, Mimoseae)" 
 date: 2024-12-20
-url: /papers/barduzzi2024
+url: /barduzzi2024
 aliases: 
     - /barduzzi2024.html
 author: ["<strong>Rafael F Barduzzi</strong>", "Yago Barros-Souza", "Stefany Liau-Kang", "Leonardo M Borges"]
@@ -21,7 +21,7 @@ editPost:
 
 - [Paper](https://doi.org/10.1007/s40415-024-01059-y)
 
-- [Code and data](https://github.com/TaxEP/Stryphnodendron-Pollen-ASE)
+- [Data and code](https://github.com/TaxEP/Stryphnodendron-Pollen-ASE)
 
 ---
 
