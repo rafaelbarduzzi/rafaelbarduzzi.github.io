@@ -12,8 +12,8 @@ cover:
     alt: "Evolution of traits (a) pollen ornamentation and (b) exine thickness in the Stryphnodendron clade."
     relative: true
 editPost:
-    URL: "https://link.springer.com/journal/40415"
-    Text: "Brazilian Journal of Botany"
+    URL: "https://link.springer.com/collections/fhbbcjdidd"
+    Text: "Brazilian Journal of Botany - Advances in Legume Systematics 15"
 
 ---
 
