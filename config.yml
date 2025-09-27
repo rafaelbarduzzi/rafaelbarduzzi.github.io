@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://rafaelbarduzzi.github.io/" 
+title: Rafael F. Barduzzi
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,25 +12,16 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
         - name: Papers
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        # - name: Data
+        #   url: data/
+        #   weight: 4
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Rafael F. Barduzzi's research papers, books, course materials, data, curriculum vitae, and contact information."
+    author: Rafael F. Barduzzi
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -44,7 +35,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,50 +45,32 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Rafael F. Barduzzi
+          subtitle: "<div style='text-align: justify;'>Graduate degree in Biological Science by Federal University of São Carlos (2023). Currently, I am a Ph.D. student at the Comparative Biology program of São Paulo University - Ribeirão Preto campus. As part of my Ph.D., I am currently conducting a research stay at the University of California, Riverside. I have experience in handling morphological data and in phylogenetic comparative methods. I am interested in studying morphological diversity and how it relates to taxonomy, phylogenetic relationships and functional diversity.</div>"
+          imageUrl: "picture.jpg"
           imageWidth: 160
-          imageHeight: 160
+          imageHeight: 200
           buttons:
             - name: Papers
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            # - name: Data
+            #   url: data/
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: CV_RFBarduzzi.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:rfbarduzzi@gmail.com
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=LAA30yMAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
+          url: https://github.com/rafaelbarduzzi
+        - name: Linkedin
+          url: https://www.linkedIn.com/in/rafael-barduzzi
         - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://bsky.app/profile/barduzzi-rafael.bsky.social
+        - name: Instagram
+          url: https://www.instagram.com/barduzzi_rafael
 
     assets:
         disableScrollBarStyle: true
@@ -105,9 +78,9 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
-      iconHeight: 18
+      text: "Rafael F. Barduzzi"
+      icon: plant.ico
+      iconHeight: 30
 
 markup:
     goldmark:
