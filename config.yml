@@ -61,6 +61,8 @@ params:
           url: CV_RFBarduzzi.pdf
         - name: Email
           url: mailto:rfbarduzzi@gmail.com
+        - name: ResearchGate
+          url: https://www.researchgate.net/profile/Rafael-F-Barduzzi
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=LAA30yMAAAAJ&hl=en
         - name: GitHub
