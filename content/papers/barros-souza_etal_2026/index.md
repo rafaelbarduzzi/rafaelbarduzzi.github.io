@@ -6,7 +6,7 @@ aliases:
     - /barrossouza2026.html
 author: ["Yago Barros-Souza", "Monique Maianne", "<strong>Rafael F Barduzzi</strong>", "Leonardo M Borges"]
 description: "Paper description for search engines (less than 155 characters)" 
-summary: "At what scale are ancient mountain plant communities connected to their adjacent lowland communities? And which environmental factors drive this connectivity?"
+summary: "What are the evolutionary connections between the montane vegetation of the *campos rupestres* and its surrounding lowland biomes, and which environmental factors drive this connectivity?"
 cover:
     image: "barrossouza2026_cover.jpg"
     alt: "Campos rupestres at Parque Nacional da Serra do Cipó."
