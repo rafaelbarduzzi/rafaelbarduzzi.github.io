@@ -61,14 +61,16 @@ params:
           url: CV_RFBarduzzi.pdf
         - name: Email
           url: mailto:rfbarduzzi@gmail.com
-        - name: ResearchGate
-          url: https://www.researchgate.net/profile/Rafael-F-Barduzzi
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=LAA30yMAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/rafaelbarduzzi
+        - name: ResearchGate
+          url: https://www.researchgate.net/profile/Rafael-F-Barduzzi
         - name: Linkedin
-          url: https://www.linkedIn.com/in/rafael-barduzzi
+          url: https://br.linkedin.com/in/rafael-barduzzi
+        - name: Twitter
+          url: https://x.com/barduzzi_rafael
         - name: Bluesky
           url: https://bsky.app/profile/barduzzi-rafael.bsky.social
         - name: Instagram
