@@ -57,7 +57,7 @@ params:
             #   url: data/
 
     socialIcons:
-        - name: CV
+        - name: CV - English
           url: CV_RFBarduzzi.pdf
         - name: CV - Portuguese
           url: http://lattes.cnpq.br/6831891803061930
