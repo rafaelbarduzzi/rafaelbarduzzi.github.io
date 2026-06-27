@@ -59,10 +59,10 @@ params:
     socialIcons:
         - name: CV
           url: CV_RFBarduzzi.pdf
-        - name: Lattes
-          url: http://lattes.cnpq.br/6831891803061930
         - name: Email
           url: mailto:rfbarduzzi@gmail.com
+        - name: CV - Lattes
+          url: http://lattes.cnpq.br/6831891803061930
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=LAA30yMAAAAJ&hl=en
         - name: GitHub
