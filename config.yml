@@ -59,6 +59,8 @@ params:
     socialIcons:
         - name: CV
           url: CV_RFBarduzzi.pdf
+        - name: CV - Portuguese
+          url: lattes.cnpq.br/6831891803061930
         - name: Email
           url: mailto:rfbarduzzi@gmail.com
         - name: Google Scholar
