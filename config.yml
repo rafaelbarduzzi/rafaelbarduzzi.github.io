@@ -60,13 +60,8 @@ params:
           buttons:
             - name: Papers
               url: papers/
-            # - name: Data
-            #   url: data/
-            
             - name: Media
               url: https://www.youtube.com/@barduzzi_rafael
-            # - name: Data
-            #   url: data/
 
     socialIcons:
         - name: CV
