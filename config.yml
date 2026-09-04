@@ -62,7 +62,7 @@ params:
               url: papers/
             # - name: Data
             #   url: data/
-          buttons:
+            
             - name: Media
               url: https://www.youtube.com/@barduzzi_rafael
             # - name: Data
