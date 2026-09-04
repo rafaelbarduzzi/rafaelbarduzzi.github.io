@@ -15,13 +15,9 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
-        # - name: Data
-        #   url: data/
-        #   weight: 4
-        
         - name: Media
           url: https://www.youtube.com/@barduzzi_rafael
-          weight: 2
+          weight: 3
         # - name: Data
         #   url: data/
         #   weight: 4
