@@ -18,6 +18,13 @@ menu:
         # - name: Data
         #   url: data/
         #   weight: 4
+        
+        - name: Midia
+          url: https://www.youtube.com/@barduzzi_rafael
+          weight: 2
+        # - name: Data
+        #   url: data/
+        #   weight: 4
 
 params:
     description: "This website hosts Rafael F. Barduzzi's research papers, curriculum vitae, and contact information."
