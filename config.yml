@@ -19,7 +19,7 @@ menu:
         #   url: data/
         #   weight: 4
         
-        - name: Midia
+        - name: Media
           url: https://www.youtube.com/@barduzzi_rafael
           weight: 2
         # - name: Data
@@ -60,6 +60,11 @@ params:
           buttons:
             - name: Papers
               url: papers/
+            # - name: Data
+            #   url: data/
+          buttons:
+            - name: Media
+              url: https://www.youtube.com/@barduzzi_rafael
             # - name: Data
             #   url: data/
 
