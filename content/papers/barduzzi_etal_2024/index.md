@@ -21,8 +21,6 @@ editPost:
 
 - [Paper](https://doi.org/10.1007/s40415-024-01059-y)
 
-- [Data and code](https://github.com/TaxEP/Stryphnodendron-Pollen-ASE)
-
 ---
 
 ##### Abstract:
