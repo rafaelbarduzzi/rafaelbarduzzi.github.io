@@ -21,8 +21,6 @@ editPost:
 
 - [Paper](https://doi.org/10.1007/s40415-024-01033-8)
 
-- [Data and code](https://github.com/TaxEP/Liau-Kang_et_al-2024)
-
 ---
 
 ##### Abstract:
